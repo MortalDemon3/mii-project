@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e3d6dace-caf3-4549-bc9f-decc57351911",
+    "email": "theo.freihuber@gmail.com",
+    "password": "f139baeabb4604cb974dbae738003106:b64e9b9cc68ea670c0e6eb312f56df64b0d33b5d53f4c06965523b1785266e4c073059e21ce6e0bc59e137fa0b1119d718ae455dc2f939654be4a3b35fd34999",
+    "username": "Yuthsm",
+    "createdAt": "2026-04-07T11:41:55.880Z",
+    "isVerified": true
+  },
+  {
+    "id": "bcd69b94-860d-45fd-8d00-312b719d9b49",
+    "email": "alexis.andries1@gmail.com",
+    "password": "ebafb9d42bbf0f137568780046260392:80e8b1fbba1266f73cc03df74f61bb17f84ceb0c536553e21fa2e6c45e207e242f400c0b9d5400420d1ef14580d23b1dcc8408075be93084b07a423586fc15d8",
+    "username": "alexis",
+    "createdAt": "2026-04-07T12:31:37.752Z",
+    "isVerified": true
+  },
+  {
+    "id": "577b2a0a-6ad8-453d-9706-11b07c14650d",
+    "email": "dumasmarylou30@gmail.com",
+    "password": "d311bb06dff7864490d1d4086e475b2d:467047cbcb2c607282703e3deb786b4726afb9c5e21d2def7d19bfb41bbfe9a06cf89021f6ca1ff4098aab0ce75cea6f1c3c11d1deb27951fc2f50dd94446c56",
+    "username": "mylou",
+    "createdAt": "2026-04-07T12:32:16.081Z",
+    "isVerified": true
+  },
+  {
+    "id": "ddafa74d-2faf-4ba1-8475-c98c1e76bc3e",
+    "email": "mylo.wierez@gmail.com",
+    "password": "aac166745b9c01f5a99bbd8203f61f3d:04b14a13ccfd8d2f801511a1d50bea8d24e2510c800c0c1bd19628ab584b605f8fc7348b4fef5a423ec67ee84a51ebe347815d988fd721b2a790aedfe2298cd7",
+    "username": "Mylow",
+    "createdAt": "2026-04-08T09:39:47.922Z",
+    "isVerified": true
+  }
+]

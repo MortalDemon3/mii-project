@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  miiproject:
+    build: .
+    ports:
+      - "${APP_PORT:-3000}:80"
+    environment:
+      - VITE_SUPABASE_URL=${VITE_SUPABASE_URL}
+      - VITE_SUPABASE_PUBLISHABLE_KEY=${VITE_SUPABASE_PUBLISHABLE_KEY}
+      - RESEND_API_KEY=${RESEND_API_KEY} # ⚠️ CORRECTION ICI
+    volumes:
+      - ./data:/data
+    restart: unless-stopped

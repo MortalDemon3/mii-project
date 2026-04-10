@@ -1,0 +1,4 @@
+# Forcer start.sh à toujours rester en format LF (Linux)
+start.sh text eol=lf
+# On peut aussi le faire pour tous les scripts shell
+*.sh text eol=lf
